@@ -1,0 +1,6 @@
+0 Venti
+1 Zhongli
+2 Raiden Ei
+3 Nahida
+4 Focalors
+5 Mavuika
